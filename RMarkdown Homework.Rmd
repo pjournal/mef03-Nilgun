@@ -1,0 +1,42 @@
+---
+title: "RMarkdown Homework"
+output: html_document
+---
+
+## H.Nilgun Aytekin
+
+  I'm working for a state owned financial institution at Credit Risk Monitoring department. As a finance sector employee, i am well-aware about how data is important for a company. 
+  The finance sector, which is directly related to customer satisfaction, is one of the most benefiting from data science concept. Not only customers’ needs but also evaluating the risks exposured, measuring the performance of various units, determining currencies and loan rates etc., financial institutions have to minimize operational risks in real terms. Therefore, it must establish a strong team creating reliable information about market.
+  Even though the efficient use of data is crucial for almost all markets, i have directly noticed this importance while doing my daily tasks.
+In my current position, I am responsible for creating various kinds of lists, tables, charts, presentations and analysis about customers, products, performance evaluations etc. using SAP BI and data base tools of Microsoft.
+  By using R programming language can be done more effective analysis and studies. 
+  
+## useR!2019 Video  
+  Sarah Romanes' presentations title is "Discriminant Analysis Methods for Large Scale and Complex Datasets". She talks about a new method of performing high dimensional discriminant analysis and an R package they have created, called multiDA, which effectively applies the method they developed. 
+  
+  [link](https://www.youtube.com/watch?v=wG-fW35DKyo)
+ 
+### *Usage of R in Finance and Banking Research
+
+The article linked below is about a research of usage of R in Finance and Banking areas
+
+ 
+[link](https://www.researchgate.net/publication/324163956_The_Usage_of_R_Programming_in_Finance_and_Banking_Research)
+
+### **R in Financial Risk Analytics
+
+The video below is about the use of R, for risk management that aggregates risks, simulates extreme events, and reports results enterprise decision makers can use. 
+
+ [link](https://www.youtube.com/watch?v=76VfhwR6g5s)
+
+
+### ***Using R for Analyzing Loans, Portfolios and Risk
+
+The slide linked below is about
+
+* An R-based model for optimizing loan modifications on distressed home loans, and the economics of these modifications.
+* A goal-based portfolio optimization model for investors who use derivatives.
+* Using network modeling tools in R to detect systemically risky financial institutions
+* Using R for web delivery of financial models and random generation of pedagogical problems
+
+[link](https://www.slideshare.net/RevolutionAnalytics/using-r-for-analyzing-loans-portfolios-and-risk-from-academic-theory-to-financial-practice?next_slideshow=1)
